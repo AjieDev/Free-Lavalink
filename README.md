@@ -1,0 +1,2 @@
+# Free-Lavalink
+My Public
