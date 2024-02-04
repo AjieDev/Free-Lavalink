@@ -45,3 +45,5 @@ My Public Lavalink Hosting
 ```
 Unexpected op "ready" with data: [object Object]
 ```
+
+Visit status page [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
