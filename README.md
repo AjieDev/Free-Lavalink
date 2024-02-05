@@ -1,7 +1,7 @@
 # Free-Lavalink
 My Public Lavalink Hosting
 
-
+⚠⚠ For Non SSL will always restart every 7 days, for avoiding system corrupt to my Mikrotik.
 
 
 ### US Server (SSL) [Recomended]
