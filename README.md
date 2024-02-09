@@ -10,7 +10,7 @@ My Public Lavalink Hosting
 
     host: "lavalink-localnet.ajieblogs.eu.org",
     port: 443,
-    password: "youshallnotpass",
+    password: "https://dsc.gg/ajidevserver",
     secure: true
 
   }
@@ -21,7 +21,7 @@ My Public Lavalink Hosting
 
     host: "localnet-id.ajiehost.rf.gd",
     port: 540,
-    password: "youshallnotpass",
+    password: "https://dsc.gg/ajidevserver",
     secure: false
 
   }
@@ -33,7 +33,7 @@ My Public Lavalink Hosting
 
     host: "localnet-sg2.ajiehost.rf.gd",
     port: 50243,
-    password: "youshallnotpass",
+    password: "https://dsc.gg/ajidevserver",
     secure: false
 
   }
