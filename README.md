@@ -49,4 +49,4 @@ Unexpected op "ready" with data: [object Object]
 Visit status page [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
 
 
-<iframe width="950" height="1850" src="https://lavalink-status.lexnet.cc"></iframe>
+<iframe width="950" height="1850" src="http://lavastat.us.to"></iframe>
