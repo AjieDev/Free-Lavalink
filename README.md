@@ -47,3 +47,6 @@ Unexpected op "ready" with data: [object Object]
 ```
 
 Visit status page [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
+
+
+<iframe src="http://lavastat.us.to/" name="myIFrame" width="100%" height="1000%" style="border: solid #000000;"></iframe>
