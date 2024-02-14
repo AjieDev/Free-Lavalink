@@ -49,4 +49,4 @@ Unexpected op "ready" with data: [object Object]
 Visit status page [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
 
 
-<iframe width="950" height="1850" src="https://lvlstat.ajieblogs.eu.org/"></iframe>
+<iframe width="920" height="920" src="https://lvlstat.ajieblogs.eu.org/"></iframe>
