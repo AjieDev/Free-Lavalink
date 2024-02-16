@@ -54,11 +54,11 @@ My Discord Server: https://dsc.gg/ajidevserver
   }
 ````
 
-# Information
+# Adt Information
 
 ### This node uses version 3.7.10 which still supports the old library, but in some cases it still gets this error.
 ```
-Unexpected op "ready" with data: [object Object]
+Error on ErelaJS - Unexpected op "ready" with data: [object Object]
 ```
 
 Visit status page [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
