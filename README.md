@@ -1,8 +1,22 @@
-# Free-Lavalink
+# Free Lavalink Information
 My Public Lavalink Hosting
 
-⚠⚠ For Non SSL will always restart every 7 days, for avoiding system corrupt to my Mikrotik.
+⚠⚠ For Non SSL will always restart every 7 days, for avoiding system corrupt to my Mikrotik. <br />
+ℹℹ Note: This is Development Server, its means node randomly offline by my internet conditions, also i adding Google Account for this server for play YT restricted video.
 
+Plugins: <br />
+[lavasrc](https://github.com/topi314/LavaSrc) 3.2.10 <br />
+[lava-xm-plugin](https://github.com/esmBot/lava-xm-plugin) 0.2.2 <br />
+[DuncteBot-plugin](https://github.com/DuncteBot/skybot-lavalink-plugin) 1.5.1 <br />
+
+Another Public Lavalink <br />
+[SSL Darren's List](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) |
+[Non SSL Darren's List](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) |
+[BrBlacky's List](https://lavalink.moebot.pro/)
+
+My Discord Server: https://dsc.gg/ajidevserver
+
+# Connect
 
 ### US Server (SSL) [Recomended]
 ````
@@ -25,6 +39,7 @@ My Public Lavalink Hosting
     secure: false
 
   }
+
 /// this server using unsafe port but you can ignore it
 ````
 ### SG Server (Non SSL)
