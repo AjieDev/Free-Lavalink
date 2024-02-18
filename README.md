@@ -18,7 +18,23 @@ Another Public Lavalink <br />
 
 My Discord Server: https://dsc.gg/ajidevserver
 
-# Connect
+# Connect v4
+
+This node using version 4 and not supported on old lavalink library/clients like ErelaJS, if you want use v3 connect it with v3 below.
+
+### US Server (SSL)
+````
+{
+
+    host: "lavalink4-localnet.ajieblogs.eu.org",
+    port: 443,
+    password: "https://dsc.gg/ajidevserver",
+    secure: true
+
+  }
+````
+
+# Connect V3
 
 ### US Server (SSL) [Recomended]
 ````
@@ -55,13 +71,6 @@ My Discord Server: https://dsc.gg/ajidevserver
 
   }
 ````
-
-# Adt Information
-
-### This node uses version 3.7.10 which still supports the old library, but in some cases it still gets this error.
-```
-Error on ErelaJS - Unexpected op "ready" with data: [object Object]
-```
 
 Visit status page [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
 
