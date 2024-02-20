@@ -4,7 +4,7 @@ My Public Lavalink Hosting
 ⚠⚠ For Non SSL will always restart every 7 days, for avoiding system corrupt to my Mikrotik. <br />
 ℹℹ Note: This is Development Server, its means node randomly offline by my internet conditions, also i adding Google Account for this server for play YT restricted video.<br />
 
-🔴🔴 Known issues: Net Device keeps disconnect when UDP traffic running, we recommended use erelajs for right now.
+~~🔴🔴 Known issues: Net Device keeps disconnect when UDP traffic running, we recommended use erelajs for right now.~~ Fixed, bandwith: 200Mbps
 
 Plugins: <br />
 [lavasrc](https://github.com/topi314/LavaSrc) 3.2.10 <br />
