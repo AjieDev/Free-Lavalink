@@ -1,8 +1,8 @@
 # Free Lavalink Information
 My Public Lavalink Hosting
 
-⚠⚠ For Non SSL will always restart every 7 days, for avoiding system corrupt to my Mikrotik. <br />
-ℹℹ Note: This is Development Server, its means node randomly offline by my internet conditions, also i adding Google Account for this server for play YT restricted video. AND it to much request, it will give you rate limit error!<br />
+~~⚠⚠ For Non SSL will always restart every 7 days, for avoiding system corrupt to my Mikrotik.~~ Survive until die :) <br /> 
+ℹℹ Note: This is Development Server, its means node randomly offline by my internet conditions, also i'm adding Google Account for this server for play YT restricted video. AND it to much request, it will give you rate limit error!<br />
 
 Plugins: <br />
 [lavasrc](https://github.com/topi314/LavaSrc) 3.2.10 <br />
