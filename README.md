@@ -2,9 +2,7 @@
 My Public Lavalink Hosting
 
 ⚠⚠ For Non SSL will always restart every 7 days, for avoiding system corrupt to my Mikrotik. <br />
-ℹℹ Note: This is Development Server, its means node randomly offline by my internet conditions, also i adding Google Account for this server for play YT restricted video.<br />
-
-~~🔴🔴 Known issues: Net Device keeps disconnect when UDP traffic running, we recommended use erelajs for right now.~~ Fixed, bandwith: 200Mbps
+ℹℹ Note: This is Development Server, its means node randomly offline by my internet conditions, also i adding Google Account for this server for play YT restricted video. AND it to much request, it will give you rate limit error!<br />
 
 Plugins: <br />
 [lavasrc](https://github.com/topi314/LavaSrc) 3.2.10 <br />
@@ -18,7 +16,7 @@ Another Public Lavalink <br />
 
 My Discord Server: https://dsc.gg/ajidevserver
 
-# Connect v4
+<!--# Connect v4
 
 This node using version 4 and not supported on old lavalink library/clients like ErelaJS, if you want use v3 connect it with v3 below.
 
@@ -32,7 +30,7 @@ This node using version 4 and not supported on old lavalink library/clients like
     secure: true
 
   }
-````
+```` -->
 
 # Connect V3
 
@@ -40,7 +38,7 @@ This node using version 4 and not supported on old lavalink library/clients like
 ````
 {
 
-    host: "lavalink-localnet.ajieblogs.eu.org",
+    host: "lava-v3.ajieblogs.eu.org",
     port: 443,
     password: "https://dsc.gg/ajidevserver",
     secure: true
