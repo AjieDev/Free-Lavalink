@@ -73,4 +73,4 @@ This node using version 4 and not supported on old lavalink library/clients like
 Visit status page [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
 
 
-<iframe width="920" height="920" src="https://lvlstat.ajieblogs.eu.org/"></iframe>
+<iframe width="920" height="920" src="https://hetrix-uptime.ajieblogs.eu.org/"></iframe>
