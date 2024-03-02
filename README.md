@@ -56,8 +56,6 @@ This node using version 4 and not supported on old lavalink library/clients like
     secure: false
 
   }
-
-/// this server using unsafe port but you can ignore it
 ````
 
 <iframe width="920" height="920" src="https://hetrix-uptime.ajieblogs.eu.org/"></iframe>
