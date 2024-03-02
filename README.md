@@ -3,7 +3,7 @@ My Public Lavalink Hosting
 
 ~~⚠⚠ For Non SSL will always restart every 7 days, for avoiding system corrupt to my Mikrotik.~~ Survive until die :) <br /> 
 ℹℹ Note: This is Development Server, its means node randomly offline by my internet conditions, also i'm adding Google Account for this server for play YT restricted video. AND it to much request, it will give you rate limit error!<br />
-🔴🔴 We are disabling the Non SSL, because network issues!
+🔴🔴 We are migrating Non SSL with Cloudflare due someone trying to DDoS to our server, we have successfully block it thanks to cloudflare. We have new URL/Link to Non SSL Connection please see below!
 
 Plugins: <br />
 [lavasrc](https://github.com/topi314/LavaSrc) 3.2.10 <br />
@@ -46,12 +46,12 @@ This node using version 4 and not supported on old lavalink library/clients like
 
   }
 ````
-### ID Server (Non SSL)
+### US Server (Non SSL)
 ````
 {
 
-    host: "localnet-id.ajiehost.rf.gd",
-    port: 540,
+    host: "lava-v3.ajieblogs.eu.org",
+    port: 80,
     password: "https://dsc.gg/ajidevserver",
     secure: false
 
@@ -59,19 +59,5 @@ This node using version 4 and not supported on old lavalink library/clients like
 
 /// this server using unsafe port but you can ignore it
 ````
-### SG Server (Non SSL)
-````
-{
-
-    host: "localnet-sg2.ajiehost.rf.gd",
-    port: 50243,
-    password: "https://dsc.gg/ajidevserver",
-    secure: false
-
-  }
-````
-
-Visit status page [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
-
 
 <iframe width="920" height="920" src="https://hetrix-uptime.ajieblogs.eu.org/"></iframe>
