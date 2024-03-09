@@ -17,7 +17,7 @@ Another Public Lavalink <br />
 
 My Discord Server: https://dsc.gg/ajidevserver
 
-<!--# Connect v4
+# Connect v4
 
 This node using version 4 and not supported on old lavalink library/clients like ErelaJS, if you want use v3 connect it with v3 below.
 
@@ -25,17 +25,28 @@ This node using version 4 and not supported on old lavalink library/clients like
 ````
 {
 
-    host: "lavalink4-localnet.ajieblogs.eu.org",
+    host: "lava-v4.ajieblogs.eu.org",
     port: 443,
     password: "https://dsc.gg/ajidevserver",
     secure: true
 
   }
-```` -->
+````
+### US Server (Non SSL)
+````
+{
+
+    host: "lava-v4.ajieblogs.eu.org",
+    port: 80,
+    password: "https://dsc.gg/ajidevserver",
+    secure: false
+
+  }
+````
 
 # Connect V3
 
-### US Server (SSL) [Recomended]
+### US Server (SSL)
 ````
 {
 
@@ -58,4 +69,4 @@ This node using version 4 and not supported on old lavalink library/clients like
   }
 ````
 
-<iframe width="920" height="920" src="https://hetrix-uptime.ajieblogs.eu.org/"></iframe>
+<iframe width="920" height="920" src="https://lava-stat.ajieblogs.eu.org/"></iframe>
