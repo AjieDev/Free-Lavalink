@@ -69,4 +69,4 @@ This node using version 4 and not supported on old lavalink library/clients like
   }
 ````
 
-<iframe width="920" height="920" src="https://lava-stat.ajieblogs.eu.org/"></iframe>
+<iframe width="920" height="400" src="https://lava-stat.ajieblogs.eu.org/"></iframe>
