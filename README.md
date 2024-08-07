@@ -17,7 +17,7 @@ My Discord Server: https://dsc.gg/ajidevserver
 
 # Connect v4
 
-### US Server (SSL)
+### V4 (SSL)
 ````
 {
 
@@ -28,7 +28,7 @@ My Discord Server: https://dsc.gg/ajidevserver
 
   }
 ````
-### US Server (Non SSL)
+### V4 (Non SSL)
 ````
 {
 
@@ -42,7 +42,7 @@ My Discord Server: https://dsc.gg/ajidevserver
 
 # Connect V3
 
-### US Server (SSL)
+### V3 (SSL)
 ````
 {
 
@@ -53,7 +53,7 @@ My Discord Server: https://dsc.gg/ajidevserver
 
   }
 ````
-### US Server (Non SSL)
+### V3 (Non SSL)
 ````
 {
 
@@ -64,5 +64,3 @@ My Discord Server: https://dsc.gg/ajidevserver
 
   }
 ````
-
-<iframe width="920" height="400" src="https://lava-stat.ajieblogs.eu.org/"></iframe>
