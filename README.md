@@ -5,7 +5,7 @@ Public Free Lavalink, including connection details for both SSL and Non-SSL conf
 Free Public Lavalink for your bots and front-end apps!, with v3 and v4 version available
 
 [Join Support Server](https://dsc.gg/ajidevserver)<br />
-[Website](https://lavalink.tech)
+[Website](https://get.lavalink.free.nf)
 
 # Connect v4
 ![stat](https://status.ajieblogs.eu.org/api/badge/11/status)・![up](https://status.ajieblogs.eu.org/api/badge/11/uptime?labelSuffix=+hour)・![playersv4](https://lava-stat-api.ajieblogs.eu.org/v4/badge/Players)
