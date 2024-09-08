@@ -8,7 +8,7 @@ Free Public Lavalink for your bots and front-end apps!, with v3 and v4 version a
 [Website](https://get.lavalink.free.nf)
 
 # Connect v4
-![stat](https://status.ajieblogs.eu.org/api/badge/11/status)・![up](https://status.ajieblogs.eu.org/api/badge/11/uptime?labelSuffix=+hour)・![playersv4](https://lava-stat-api.ajieblogs.eu.org/v4/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![loadv4](https://ajieblogs.eu.org/lavalink/v4/badge/Load) 
 ### V4 (SSL)
 ````
 {
@@ -33,7 +33,7 @@ Free Public Lavalink for your bots and front-end apps!, with v3 and v4 version a
 ````
 
 # Connect V3
-![stat](https://status.ajieblogs.eu.org/api/badge/10/status)・![up](https://status.ajieblogs.eu.org/api/badge/10/uptime?labelSuffix=+hour)・![playersv3](https://lava-stat-api.ajieblogs.eu.org/v3/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![loadv3](https://ajieblogs.eu.org/lavalink/v3/badge/Load) 
 ### V3 (SSL)
 ````
 {
