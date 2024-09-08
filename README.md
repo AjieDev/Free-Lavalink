@@ -56,3 +56,28 @@ Free Public Lavalink for your bots and front-end apps!, with v3 and v4 version a
 
   }
 ````
+
+# Connect Combined version (Beta)
+This server can handle v4 and v3 connections, depends on clients. Recommended to you dont know pick lavalink version for your bots!
+### V3 (SSL)
+````
+{
+
+    host: "lava-all.ajieblogs.eu.org",
+    port: 443,
+    password: "https://dsc.gg/ajidevserver",
+    secure: true
+
+  }
+````
+### V3 (Non SSL)
+````
+{
+
+    host: "lava-all.ajieblogs.eu.org",
+    port: 80,
+    password: "https://dsc.gg/ajidevserver",
+    secure: false
+
+  }
+````
